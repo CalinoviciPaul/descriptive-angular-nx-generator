@@ -1,0 +1,37 @@
+/app
+  /article
+    /components
+    /store
+    /types
+    /services
+      article.service.ts
+    article.routes.ts
+  /globalFeed
+    /components
+      /globalFeed
+    globalFeed.routes.ts
+  /shared
+    /components
+      /backendErrorMessages
+        backendErrorMessages.component.ts
+      /popularTags
+        popularTags.component.ts
+        /types
+        /store
+        /services
+    /directives
+      /incredibleDirective
+        incredibleDirective.directive.ts
+    /guards
+      everythingSealed.guard.ts
+    /pipes
+      mario.pipe.ts  
+    /types
+      article.interface.ts
+      articleType.enum.ts
+      articleTwo.ts
+      articleThree.class.ts
+    /services
+      article.service.ts
+  app.routes.ts
+main.ts

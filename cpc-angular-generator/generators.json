@@ -1,0 +1,10 @@
+{
+  "generators": {
+    "descriptive-angular-nx-generator": {
+      "factory": "./src/generators/descriptive-angular-nx-generator/generator",
+      "schema": "./src/generators/descriptive-angular-nx-generator/schema.json",
+      "description": "descriptive-angular-nx-generator generator"
+    }
+  },
+  "default": "descriptive-angular-nx-generator"
+}
